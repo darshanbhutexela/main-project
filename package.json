@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/darshanbhutexela/main-project/issues"
   },
-  "homepage": "https://github.com/darshanbhutexela/main-project#readme"
+  "homepage": "https://github.com/darshanbhutexela/main-project#readme",
+  "dependencies": {
+    "mongoose": "^8.5.0"
+  }
 }

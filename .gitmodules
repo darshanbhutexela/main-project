@@ -1,0 +1,3 @@
+[submodule "common-models"]
+	path = common-models
+	url = https://github.com/darshanbhutexela/common-module.git
